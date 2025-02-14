@@ -1,29 +1,41 @@
 👋 Hi, I’m @Sngklem  
-🌟 Aspiring Software Engineer with a passion for coding and problem-solving!  
+# Website MyMemories
 
-👀 Interests:  
-- Web Development 🌐  
-- Artificial Intelligence 🤖  
-- Open-Source Projects 🚀  
-- Exploring new technologies 🛠️  
+A simple personal memory website to store and showcase memorable moments.
 
-🌱 Currently Learning:  
-- Advanced JavaScript and TypeScript  
-- PHP and Python  
-- Building scalable backend systems with Node.js  
-- Machine Learning fundamentals   
+## 📂 Project Structure
 
-📫 How to Reach Me:  
-- Email: [faruq110803@gmail.com](mailto:faruq110803@gmail.com)  
-- YouTube: [@Sngklem](https://www.youtube.com/@Sngklem)  
+```
+Website-mymemories/
+├── assets/        # Contains images, CSS, and other assets
+├── contact/       # Contact page files
+├── gallery/       # Photo gallery section
+├── sosmed/        # Social media links and integrations
+├── index.html     # Main homepage of the website
+├── README.md      # Project documentation
+```
 
-😄 Nickname:  
-Oseng/Ruk
+## 🚀 Features
+- Responsive design for all devices
+- Simple and clean UI
+- Contact page for communication
+- Photo gallery to showcase memories
+- Social media integration
 
-⚡ Fun Fact:  
-I can code for hours as long as there’s a plate of fried rice 🍳, a hot cup of coffee ☕, and a cigarette 🚬 to spark my creativity.  
+## 🛠️ Technologies Used
+- HTML
+- CSS
 
----  
-✨ This repository is special because it reflects my journey in tech. Feel free to explore, fork, or star it if you find something inspiring!  
+## 📥 Installation & Usage
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Osengg/Website-mymemories.git
+   ```
+2. Open `index.html` in a browser to view the website.
 
-Note: source code belajar web dari channel youtube dea afrizal. HTML CSS BOOTSTRAP dasar membuat landing page dengan tema tour guide servis untuk pembelajaran
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+
+## 📜 Note
+Source code for web learning from Dea Afrizal's YouTube channel. Basic HTML CSS BOOTSTRAP creates landing page with theme tour guide service for learning
