@@ -24,7 +24,6 @@ Website-mymemories/
 
 ## 🛠️ Technologies Used
 - HTML
-- CSS
 
 ## 📥 Installation & Usage
 1. Clone the repository:
