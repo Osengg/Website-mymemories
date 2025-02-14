@@ -1,10 +1,12 @@
-👋 Hi, I’m @Sngklem  
-# Website MyMemories
+# 👋 Hi, I’m @Sngklem  
+
+## Website MyMemories
+
 A simple personal memory website to store and showcase memorable moments.
 
 ## 📂 Project Structure
 
-```
+```bash
 Website-mymemories/
 ├── assets/        # Contains images, CSS, and other assets
 ├── contact/       # Contact page files
@@ -15,6 +17,7 @@ Website-mymemories/
 ```
 
 ## 🚀 Features
+
 - Responsive design for all devices
 - Simple and clean UI
 - Contact page for communication
@@ -22,20 +25,27 @@ Website-mymemories/
 - Social media integration
 
 ## 🛠️ Technologies Used
+
 - HTML
 
 ## 📥 Installation & Usage
+
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/Osengg/Website-mymemories.git
    ```
+
 2. Open `index.html` in a browser to view the website.
 
 ## 🔎 Live Demo
+
 You can view the website here: [Website MyMemories](https://osengg.github.io/Website-mymemories/)
 
 ## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+
+This project is open-source and available under the [MIT License]().
 
 ## 📜 Note
+
 Source code for web learning from Dea Afrizal's YouTube channel. Basic HTML CSS BOOTSTRAP creates landing page with theme tour guide service for learning
