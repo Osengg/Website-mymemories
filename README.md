@@ -4,7 +4,7 @@
 
 A simple personal memory website to store and showcase memorable moments.
 
-## 📂 Project Structure
+### Project Structure
 
 ```bash
 Website-mymemories/
@@ -16,7 +16,7 @@ Website-mymemories/
 ├── README.md      # Project documentation
 ```
 
-## 🚀 Features
+### Features
 
 - Responsive design for all devices
 - Simple and clean UI
@@ -24,11 +24,11 @@ Website-mymemories/
 - Photo gallery to showcase memories
 - Social media integration
 
-## 🛠️ Technologies Used
+### Technologies Used
 
 - HTML
 
-## 📥 Installation & Usage
+### Installation & Usage
 
 1. Clone the repository:
 
@@ -38,14 +38,14 @@ Website-mymemories/
 
 2. Open `index.html` in a browser to view the website.
 
-## 🔎 Live Demo
+### Live Demo
 
 You can view the website here: [Website MyMemories](https://osengg.github.io/Website-mymemories/)
 
-## 📄 License
+### License
 
-This project is open-source and available under the [MIT License]().
+🚀 Open-source, feel free to use and develop further!
 
-## 📜 Note
+### Note
 
 Source code for web learning from Dea Afrizal's YouTube channel. Basic HTML CSS BOOTSTRAP creates landing page with theme tour guide service for learning
