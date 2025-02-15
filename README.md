@@ -24,10 +24,6 @@ Website-mymemories/
 - Photo gallery to showcase memories
 - Social media integration
 
-### Technologies Used
-
-- HTML
-
 ### Installation & Usage
 
 1. Clone the repository:
